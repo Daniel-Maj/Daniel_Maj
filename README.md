@@ -10,13 +10,11 @@ alt="Views Counter"/>
 </div>
 
 <h4> About Me :relaxed: </h4>
-<h5> Data Analyst <h5>
+<h5> A Data Analyst working to hone my technical skills and learn more about the computing world<h5>
 <h5>
   <ul>
-  <li> hi  </li>
-  <li> hi </li>
-  <li> hi </li>
-  <li> hi </li>
+  <li> Data Analyst </li>
+
 </ul>
   </h5>
 <h4> Tech Stack :books: </h4>
@@ -25,3 +23,7 @@ alt="Views Counter"/>
     <img src="https://skillicons.dev/icons?i=github,git,mysql,py,html,gcp" />
   </a>
 </p>
+<h4> Projects </h4>
+  <a href="https://lookerstudio.google.com/reporting/169f037e-b009-4d4c-85b6-695fdf61dd09">Analysing the Risk of stock portfolio dashboard</a>
+
+
